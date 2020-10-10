@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1081387883577-0gc06sj12d1ff90ncnaim3v4muik1i69.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1081387883577-0gc06sj12d1ff90ncnaim3v4muik1i69</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJYrX0MI_KPxJGMq4T17cFCi2UrWj0rOI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1081387883577</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pdp.firepost</string>
+	<key>PROJECT_ID</key>
+	<string>fire-post</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fire-post.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1081387883577:ios:96a36ec3168773e88801e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://fire-post.firebaseio.com</string>
+</dict>
+</plist>
